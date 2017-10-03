@@ -1,6 +1,6 @@
 ---
 title: A New Post
 date: 2017-10-03
-----
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+---
+> Преходящее всегда имеет тенденцию порождать нарратив, даже если это нарратив о невозможности нарратива, невозможности перебраться отсюда туда с помощью языка.
+[Дж. Хиллис Миллер](http://kassandrion.narod.ru/commentary/17/16miller.htm)
