@@ -1,12 +1,16 @@
 import React from "react"
+import g from "glamorous"
+import { css } from "glamor"
 
 export default ({ data }) => {
   const post = data.markdownRemark
   return (
     <div>
-      <h1>
+      <g.H1
+        color={'pink'}
+      >
         {post.frontmatter.title}
-      </h1>
+      </g.H1>
       <div dangerouslySetInnerHTML={{ __html: post.html }} />
     </div>
   )
