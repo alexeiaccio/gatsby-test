@@ -11,6 +11,6 @@ tags:
 
 Some text
 
-![yuuh!](/img/IMG_0299.jpg)
+![trump](/img/trump-black.jpg)
 
 some text below
