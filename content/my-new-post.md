@@ -11,6 +11,6 @@ tags:
 
 Some text
 
-![yuuh!](/static/img/IMG_0299.jpg)
+![yuuh!](/img/IMG_0299.jpg)
 
 some text below
